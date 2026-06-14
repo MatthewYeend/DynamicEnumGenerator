@@ -10,7 +10,7 @@ A Laravel package to automatically generate PHP enums from database columns.
 composer require mattyeend/dynamic-enum-generator
 ```
 
-This package supports Laravel 10, 11, and 12.
+This package supports Laravel 10, 11, 12, and 13.
 
 Laravel will auto-discover the service provider.
 
